@@ -23,3 +23,15 @@ Welcome to **SalonScheduler**, your go-to solution for booking hair appointments
 ## Demo 🚀
 
 Check out our live demo [here](https://your-live-demo-link.com) to see SalonScheduler in action!
+
+## Installation 🛠️
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/SalonScheduler.git
+
+2.  Navigate to the project directory:
+
+```bash
+
+cd SalonScheduler
