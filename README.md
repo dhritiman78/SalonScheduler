@@ -1,4 +1,4 @@
-![SalonScheduler Logo](https://via.placeholder.com/150x150.png?text=SalonScheduler)
+![SalonScheduler Logo](https://dhritiman78.github.io/SalonScheduler/client/src/assets/logo.png)
 
 # SalonScheduler 💇‍♂️💇‍♀️
 
