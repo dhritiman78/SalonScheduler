@@ -55,11 +55,11 @@ Check out our live demo [here](https://your-live-demo-link.com) to see SalonSche
     of you.
 
 ## Screenshots 📸
-   # Home Page 🏠
+   ### Home Page 🏠
 
-   # Booking Page 📅
+   ### Booking Page 📅
 
-   # Appointment Status 📈
+   ### Appointment Status 📈
 
 ## Contributing 🤝
 
