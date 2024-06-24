@@ -30,8 +30,20 @@ Check out our live demo [here](https://your-live-demo-link.com) to see SalonSche
    ```bash
    git clone https://github.com/your-username/SalonScheduler.git
 
-2.  Navigate to the project directory:
+2. Navigate to the project directory:
 
-```bash
+   ```bash
+   cd SalonScheduler
 
-cd SalonScheduler
+3. Install dependencies:
+
+   ```bash
+
+   npm install
+
+4. Start the development server:
+
+   ```bash
+
+   npm start
+
