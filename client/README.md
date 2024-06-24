@@ -46,4 +46,25 @@ Check out our live demo [here](https://your-live-demo-link.com) to see SalonSche
    ```bash
 
    npm start
+## Usage 💡
 
+    1. Open your browser and navigate to http://localhost:3000.
+    2. Browse available salons and select your preferred one.
+    3. Choose a convenient time slot and book your appointment.
+    4. Check the status of your appointment to see which serial number is being served and how many people are ahead
+    of you.
+
+## Screenshots 📸
+   # Home Page 🏠
+
+   # Booking Page 📅
+
+   # Appointment Status 📈
+
+## Contributing 🤝
+
+We welcome contributions from the community! Feel free to fork the project and submit pull requests. 
+
+## License 📄
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
